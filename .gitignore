@@ -1,0 +1,10 @@
+# build
+/bin/
+/build/
+/lib/
+
+# doxygen
+/doxygen/html/
+
+# ide
+.vscode/
